@@ -1,1 +1,2 @@
-// hola
+// hola es un comentario en C
+
